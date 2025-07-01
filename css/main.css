@@ -77,6 +77,8 @@ ul.exp-list li {line-height:1.5;margin-bottom:5px;}
 }
 .certi-block {margin-bottom: 15px;border-bottom: 1px solid #b6d9eb;padding-bottom: 8px;}
 .certi-block .small{line-height: 1;display: block;clear: both;}
+.certi-block a{color:#000;} 
+.certi-block a:hover{color:#0099e5;}
 
 .lm-info-block{border: none;}
 .lm-info-block p{font-size: 16px;}
